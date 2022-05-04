@@ -422,10 +422,6 @@ if __name__ == "__main__":
             remember = open('data.txt','r')
             speak("This is what you feeded in my database earlier. "+remember.read())
 
-
-        elif 'blowjob' in query:
-            speak("Sorry sir. I am an AI robot. I can't give blowjobs. So i suggest you go out and ask a girl. And please. Have a life")
-
         elif 'generate password' in query:
             passwordgen()
 
