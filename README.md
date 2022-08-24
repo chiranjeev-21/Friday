@@ -1,1 +1,3 @@
-# Jarvis
+# Friday
+
+Your personal AI Assistant
