@@ -8,7 +8,7 @@ NOTE: To run this particular Python program, You need to have python 3.6 install
 
 2)Remember to add python 3.6 to path while installing.
 
-3) Clone the repo
+3)Clone the repo
 
 4)cd Friday
 
