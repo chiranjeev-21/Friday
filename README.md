@@ -8,4 +8,10 @@ NOTE: To run this particular Python program, You need to have python 3.6 install
 
 2)Remember to add python 3.6 to path while installing.
 
-Run the friday.py file.
+3) Clone the repo
+
+4)cd Friday
+
+5)Run the friday.py file.(python friday.py)
+
+
